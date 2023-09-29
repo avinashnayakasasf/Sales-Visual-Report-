@@ -9,7 +9,6 @@ Analyze key indicators for sales data to gain insights into business performance
 |02|Total Product Sold|
 |03|Total Orders|
 |04|Average Product Per Order|
-|-|-|
 
 Visualize various aspects of Product sales data to gain insights and understand key treands.
 Requirement for creating charts:
@@ -22,4 +21,3 @@ Requirement for creating charts:
 |04|Total Product Sold by Product Category|
 |05|Top 5 Best Sellers by Revenue, Total Quantity and Total Orders|
 |06|Bottom 5 least Sellers By Revenue, Total Quantity and Total Orders|
-|-|-|

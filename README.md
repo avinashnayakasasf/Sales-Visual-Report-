@@ -2,7 +2,7 @@
 Analyze key indicators for sales data to gain insights into business performance.
 
 |Sr.no|KPI|
-|-|-|-|
+|-|-|
 |00|Total Revenue|
 |01|Average Order Value|
 |02|Total Product Sold|

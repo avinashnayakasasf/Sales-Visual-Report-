@@ -1,5 +1,5 @@
 # Sales Data Analysis and Visulation 
-<image src> ="https://github.com/avinashnayakasasf/Sales-Visual-Report-/blob/main/download%20(1).jpeg",ALT="MLBC>
+<image src// "https://github.com/avinashnayakasasf/Sales-Visual-Report-/blob/main/download%20(1).jpeg">
 Analyze key indicators for sales data to gain insights into business performance.
 
 |Sr.no|KPI|

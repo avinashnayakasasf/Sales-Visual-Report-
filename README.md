@@ -1,4 +1,4 @@
-# Sales Data Analysis and Visulation
+# Sales Data Analysis and Visulation Using SQL and Power BI
 <img src="https://github.com/avinashnayakasasf/Sales-Visual-Report-/blob/main/download%20(1).jpeg">
 
 Analyze key indicators for sales data to gain insights into business performance.
@@ -21,3 +21,4 @@ Requirement for creating charts:
 |04|Total Product Sold by Product Category|
 |05|Top 5 Best Sellers by Revenue, Total Quantity and Total Orders|
 |06|Bottom 5 least Sellers By Revenue, Total Quantity and Total Orders|
+

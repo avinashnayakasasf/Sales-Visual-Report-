@@ -1,4 +1,4 @@
-# Sales Data Analysis and Visulation 
+# Sales Data Analysis and Visulation
 <img src="https://github.com/avinashnayakasasf/Sales-Visual-Report-/blob/main/download%20(1).jpeg">
 
 Analyze key indicators for sales data to gain insights into business performance.
